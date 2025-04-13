@@ -1,3 +1,4 @@
 idcenv/
-
-idcenv/
+/home/sst/IDC/Test Scripts/
+Testing Scripts/
+Testing Scripts/__pycache__/test.cpython-311.pyc
